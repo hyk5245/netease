@@ -1,0 +1,12 @@
+#app {
+  --menu-item-margin-left: .1rem;
+  --menu-item-padding-top-bottom: .16rem;
+  --menu-item-hover-active-bgcolor: #f6f6f7;
+  /* 全局配置 */
+  --main-width: 80vw;
+  --main-height: calc(80vw * 0.7);
+  --main-min-height: 10.4rem;
+  --main-max-height: 18.2rem;
+  --main-min-width: 16rem;
+  --main-max-width: 28rem;
+}

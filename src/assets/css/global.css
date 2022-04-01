@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+html {
+  font-size: 50px;
+}
+a {
+  text-decoration: none;
+  color: #333333;
+}
+/* 阿里巴巴图标 */
+.icon {
+  width: 1em; height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+/* 设置滚动条样式 */
+::-webkit-scrollbar {
+  width: .12rem;
+}
+::-webkit-scrollbar-thumb {
+  background: #e0e0e0;
+  border-radius: .2rem;
+}
